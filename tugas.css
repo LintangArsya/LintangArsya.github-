@@ -1,0 +1,17 @@
+div.container > div{
+    background-color: salmon;
+    margin: 10px;
+    font-size: 30px;
+    width: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+}
+.container{
+    background-color: khaki;
+    display: flex;
+}
+.container{
+    flex-wrap: wrap;
+    flex-direction: column; 
+}
